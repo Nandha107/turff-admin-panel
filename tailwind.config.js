@@ -18,7 +18,7 @@ export default {
       colors: {
         primary: {
             light: '#0f150e', // Light gray for light mode
-          dark: '#0f150e', // Dark mode primary color
+          // dark: '#0f150e', // Dark mode primary color
           //   light: '#f5f5f5', // Light gray for light mode
           // dark: '#1f2937', // Dark mode primary color
         },
